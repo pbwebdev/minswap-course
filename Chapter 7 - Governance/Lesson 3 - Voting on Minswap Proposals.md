@@ -44,7 +44,7 @@ Minswap's governance lets **$MIN** holders decide the protocol's future. This gu
 ## Proposal metadata (right-hand panel)
 
 - **Proposer** – Wallet that created the proposal
-- **IPFS** – Link to the proposal document stored decentralised
+- **IPFS** – Link to the proposal document stored on a decentralised server
 - **Voting system** – e.g., Single choice
 - **Start / End** – Voting window
 - **Snapshot** – Balance-block used to calculate voting power
