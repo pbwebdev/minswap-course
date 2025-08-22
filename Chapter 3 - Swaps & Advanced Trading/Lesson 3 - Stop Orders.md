@@ -75,3 +75,40 @@ A stop-buy order purchases an asset once its price reaches a certain level. This
 6. **Sign and Submit**  
    Sign the transaction in your wallet and submit it on-chain. The stop order will now execute automatically if conditions are met.  
 
+
+## How to Create a Stop-Buy Order
+
+A stop-buy order is designed to help traders enter a position during upward momentum. Instead of buying an asset immediately, you set a trigger price above the current market price. Once the stop price is reached, the order converts into a market order and executes at the best available price.
+
+This strategy is commonly used when traders believe an asset will continue to rise once it breaks through a certain resistance level. Unlike a take profit order—which is used to **sell** and lock in gains—a stop-buy order is used to **buy** into strength.
+
+### Example
+Suppose MIN is trading at **0.0469 ADA**. You believe that if it breaks **0.0494 ADA**, the trend will continue upward. You set a stop-buy order at **0.0494 ADA**. Once the price reaches this level, the order executes, and you purchase MIN automatically at the best available market price.
+
+### Steps to Place a Stop-Buy Order
+1. **Choose Stop**  
+   From the trading screen, select **"Stop"** as your order type.
+
+2. **Specify the Buy Amount**  
+   Enter the asset you wish to purchase and the amount (e.g., buy MIN with ADA).
+
+3. **Set the Stop Price**  
+   Define the trigger price at which the buy should occur.  
+   *Example*: Buy MIN when it reaches **0.0494 ADA**.
+
+4. **Set Expiry**  
+   Choose an expiry time for the order. If the price doesn’t hit your stop price before expiry, your ADA remains in your wallet.
+
+5. **Place Order and Sign**  
+   Confirm the trade, sign in your wallet, and submit it on-chain. The order will execute automatically when conditions are met.
+
+---
+
+### Stop-Buy vs. Take Profit
+- **Stop-Buy Order**: Enters a new position once the price rises to a chosen level.
+- **Take Profit Order**: Exits an existing position by selling once the price reaches a desired profit target.
+
+Both can be used together as part of a risk/reward strategy:
+- **Stop-Loss** to protect downside
+- **Take Profit** to lock in gains
+- **Stop-Buy** to catch upward trends  
