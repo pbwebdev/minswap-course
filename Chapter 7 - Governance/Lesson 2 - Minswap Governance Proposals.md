@@ -95,6 +95,6 @@ From the screenshot provided, here’s how to fill out the form:
 
 ---
 
-## Summary
+Creating a governance proposal on Minswap allows you to play an active role in the future of the protocol.
 
-Creating a governance proposal on Minswap allows you to play an active role in the future of the protocol. By following the required steps—discussion on the forum, choosing your proposal type, and committing $MIN tokens—you help ensure that decision-making remains transparent, decentralised, and community-led.
+By following the required steps, participating in forum discussions, selecting your proposal type, and committing $MIN tokens, you help ensure that decision-making remains transparent, decentralised, and community-led.
