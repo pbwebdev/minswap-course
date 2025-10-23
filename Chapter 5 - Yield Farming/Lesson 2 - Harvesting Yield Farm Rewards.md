@@ -1,5 +1,8 @@
 # Harvesting Yield Farming Rewards on Minswap
 
+[![IMinswap Course MinWallet Setup](https://img.youtube.com/vi/BGduVQ4CzYE/0.jpg)](https://www.youtube.com/watch?v=BGduVQ4CzYE)
+
+
 From time to time, you may want to harvest or withdraw your yield farming rewards. You can easily see how much you have earned via the farming dashboard over time.
 
 There are many strategies when it comes to withdrawing and harvesting your rewards, as many like to compound their earnings and deposit their rewards back into the farms, while others may want to change and move their positions or sell off the rewards and take profits.

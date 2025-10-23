@@ -1,5 +1,8 @@
 # Yield Farming on Minswap
 
+[![IMinswap Course MinWallet Setup](https://img.youtube.com/vi/i0Q8H7nJfk0/0.jpg)](https://www.youtube.com/watch?v=i0Q8H7nJfk0)
+
+
 The process of yield farming for rewards is straightforward thanks to the great user interface on the Minswap DEX.
 
 By following these steps, you will lock in your liquidity into the yield farms and earn not only transaction fees from the liquidity pool but also yield farming rewards that are being offered by the pool.
