@@ -1,5 +1,7 @@
 # Setting Up Your Wallet and Connecting to Minswap
 
+
+
 To begin using Minswap, you'll need a Cardano-compatible wallet. Minswap supports a variety of wallets, including:
 
 - MinWallet
@@ -19,6 +21,8 @@ To begin using Minswap, you'll need a Cardano-compatible wallet. Minswap support
 - Other CIP-30 compatible wallets
 
 For this course, we'll use **MinWallet**, a lightweight wallet integrated directly into the Minswap DEX, making it easy for users to get started.
+
+[![IMinswap Course MinWallet Setup](https://img.youtube.com/vi/z9R2jgwBwM0/0.jpg)](https://www.youtube.com/watch?v=z9R2jgwBwM0)
 
 ## How to Set Up a New MinWallet
 

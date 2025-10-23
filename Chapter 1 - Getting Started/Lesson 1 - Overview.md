@@ -1,5 +1,7 @@
 Minswap is an automated market maker (AMM) decentralised exchange (DEX) built on the Cardano blockchain that allows users to swap assets, provide liquidity, participate in yield farming and even launch tokens. It is the largest DEX regarding users and liquidity on Cardano, giving it a big advantage over others in the ecosystem with less price impact and slippage across various trading pairs.
 
+[![IMinswap Course Intro](https://img.youtube.com/vi/iUwNaQH6zA8/0.jpg)](https://www.youtube.com/watch?v=iUwNaQH6zA8)
+
 Whether you’re a beginner or an experienced DeFi user, Minswap offers a user-friendly interface with features to enhance your trading and liquidity provisioning experience.
 
 This course will give you an overview of all the core features Minswap offers, giving you the knowledge and tools you need to make the best trades in the Cardano ecosystem.
