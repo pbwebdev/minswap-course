@@ -18,6 +18,9 @@ This course will give you an overview of all the core features Minswap offers, g
 
 ## Quick Start Guide
 
+[![IMinswap Platform Overview](https://img.youtube.com/vi/K15to2PcO9M/0.jpg)](https://www.youtube.com/watch?v=K15to2PcO9M)
+
+
 - Connect a Wallet:
   Minswap supports Cardano-compatible wallets such as Lace, Eternl, or Typhon.
   Connect your wallet to start interacting with the platform.
