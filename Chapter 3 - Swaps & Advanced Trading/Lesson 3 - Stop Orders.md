@@ -9,7 +9,6 @@ There are two main types of stop orders:
 - **Stop-Loss Orders**: Used to limit potential losses by selling an asset once it falls to a certain price.
 - **Stop-Buy Orders**: Used to enter a position or buy an asset once it rises to a specific price.
 
----
 
 ## How Stop Orders Work
 
@@ -21,7 +20,6 @@ A stop-loss order is designed to minimise losses by automatically selling an ass
 A stop-buy order purchases an asset once its price reaches a certain level. This order type is often used when traders want to capitalise on upward momentum.  
 *Example*: If Token B is trading at **$40** but a trader believes it will continue rising once it hits **$45**, they can set a stop-buy order at $45. The stop order triggers when the price reaches $45, and Token B is bought at the market price.
 
----
 
 ## Key Benefits of Stop Orders
 
@@ -30,7 +28,6 @@ A stop-buy order purchases an asset once its price reaches a certain level. This
 - **Capitalising on Price Trends**: Stop-buy orders enable entry during upward momentum without constant monitoring.
 - **Execution Speed**: Once triggered, the order executes at the best available price, ideal for fast-moving markets.
 
----
 
 ## Example of Stop Orders in Action
 
@@ -38,21 +35,18 @@ A stop-buy order purchases an asset once its price reaches a certain level. This
 
 - **Stop-Buy Example**: A trader watches Token D at $20 and believes it will rally once it breaks $25. They set a stop-buy order at **$25**. If the price hits $25, the tokens are bought automatically, allowing them to ride the momentum.
 
----
 
 ## Stop Orders vs. Limit Orders
 
 - **Stop Orders**: Trigger a market order once the stop price is reached. Useful for protecting against losses or entering during momentum, but **do not guarantee exact execution price**.
 - **Limit Orders**: Execute only at a specified price or better. Guarantee execution price but may never fill if the market doesn’t reach the set price.
 
----
 
 ## Potential Risks of Stop Orders
 
 - **Price Slippage**: The actual trade price may differ from the stop price in volatile or low-liquidity markets.
 - **Gaps in Price**: In fast-moving markets, the price may jump beyond the stop level before the order executes, leading to worse-than-expected outcomes.
 
----
 
 ## How to Create a Stop-Loss Order
 
@@ -103,8 +97,6 @@ Suppose MIN is trading at **0.0469 ADA**. You believe that if it breaks **0.0494
 
 5. **Place Order and Sign**  
    Confirm the trade, sign in your wallet, and submit it on-chain. The order will execute automatically when conditions are met.
-
----
 
 ### Stop-Buy vs. Take Profit
 - **Stop-Buy Order**: Enters a new position once the price rises to a chosen level.
